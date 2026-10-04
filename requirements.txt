@@ -1,0 +1,13 @@
+torch==2.3.0
+torchvision==0.18.0
+numpy==1.26.4
+pandas==2.2.2
+librosa==0.10.1
+soundfile==0.12.1
+scipy==1.13.0
+scikit-learn==1.4.2
+matplotlib==3.8.4
+seaborn==0.13.2
+kagglehub==0.2.8
+tqdm==4.66.2
+Pillow==10.3.0
